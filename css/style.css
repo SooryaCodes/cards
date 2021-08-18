@@ -13,8 +13,8 @@ body {
 
 .card-container {
   min-height: 100vh;
-  width:100%;
-  margin:auto;
+  width: 100%;
+  margin: auto;
   display: flex;
   align-items: center;
   justify-content: space-evenly;
@@ -32,7 +32,7 @@ body {
   align-items: center;
   justify-content: space-between;
   flex-direction: column;
-  margin:20px;
+  margin: 20px;
 }
 
 .card .img {
@@ -69,3 +69,7 @@ body {
   cursor: pointer;
 }
 
+.py {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
